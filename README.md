@@ -1,2 +1,3 @@
 # A_simple_complier
-Code about a simple complier subjecting to the c-grammar.
+Lexical process:get_token()
+output: A number sequence which represents the arribution of token separated from a file.
